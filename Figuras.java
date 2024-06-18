@@ -3,7 +3,7 @@ public class Figuras {
 
 	public static void main(String[] args) {
 		int lineas = 5;
-		System.out.println("Programa de Figuras");
+		System.out.println("Programa de Figuras en JAVA");
 		System.out.println("Cuadrado");
 		System.out.println("--------\n");
 
